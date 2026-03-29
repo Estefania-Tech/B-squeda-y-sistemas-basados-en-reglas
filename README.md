@@ -15,3 +15,7 @@ de transporte.
 # Grafo
  - Esta definido por nodos que son las paradas, unos Aristas que son las conexiones entre nodos/paradas
  - y un peso determinado como el tiempo, costo, y distancia
+
+# Link Video
+Reunión en General-20260328_234220-Grabación de la reunión.mp4 
+
